@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Full-stack applications with Java, Spring Boot, and React as a Junior Java Developer at V-HUB IT Consulting Services.<br>👯 I'm looking to collaborate on: Open-source projects involving Java, Spring Boot, or React.<br>🤝 I'm looking for help with: Landing a Graduate Software Engineer / Junior Java Developer role in the UK.<br>🌱 I'm currently learning: Advanced Spring Boot, REST API design, and cloud deployment (AWS).<br>💬 Ask me about: Java, Spring Boot, Spring Data JPA, REST APIs, React, MySQL, or Git.
+🔭 I'm currently working on: Building full-stack applications with Java, Spring Boot, and React.<br>Previously a Java Developer Intern at V-HUB IT Consulting Services during my UK placement year.<br>👯 I'm looking to collaborate on: Open-source projects involving Java, Spring Boot, or React.<br>🤝 I'm looking for help with: Landing a Graduate Software Engineer / Junior Java Developer role in the UK.<br>🌱 I'm currently learning: Advanced Spring Boot, REST API design, and cloud deployment (AWS).<br>💬 Ask me about: Java, Spring Boot, Spring Data JPA, REST APIs, React, MySQL, or Git.
 
 
 ## 🌐 Socials:
