@@ -15,10 +15,6 @@ I turn messy operational data into clean, validated reporting that teams can tru
 | Project | Tools | Status |
 |---|---|---|
 | Detecting Cyber Attacks in Water Distribution Systems (MSc dissertation) | Python, scikit-learn, XGBoost, SHAP | ✅ Complete |
-| Sales Health Check: why did revenue drop 15%? | Excel, Power Query | 🔄 In progress |
-| Sales Database: design, validation and reconciliation | MySQL | ⏳ Planned |
-| Operations Dashboard | Power BI, SQL | ⏳ Planned |
-| Retention and Returns Analysis | Python, pandas | ⏳ Planned |
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-jitendra-kodamasimham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saijitendra123uk@gmail.com)
