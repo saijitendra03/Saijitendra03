@@ -3,7 +3,7 @@
 
 I turn messy operational data into clean, validated reporting that teams can trust.
 
-💼 **Data Analyst Intern @ V-HUB IT Consulting** (Jan 2026 – present): designed a normalised MySQL database that improved query response time by **30%**, optimised SQL queries that cut manual invoice processing time by **40%**, and built a Power BI invoice dashboard integrating **15+** validated data sources<br>
+💼 **Data Analyst Intern @ V-HUB IT Consulting** (May 2026 – present): designed a normalised MySQL database that improved query response time by **30%**, optimised SQL queries that cut manual invoice processing time by **40%**, and built a Power BI invoice dashboard integrating **15+** validated data sources<br>
 🛠️ **Data Analyst Intern @ YVR Technologies, London** (Jun 2025 – Jan 2026): root-cause analysis of production issues that contributed to a **20%** reduction in reported issues<br>
 🏨 **Front Desk Receptionist @ The Bryson Hotel, London**: reconciled 30+ cash and card transactions per shift with zero audit discrepancies<br>
 🎓 **Dissertation:** Detecting cyber attacks in water distribution systems: Random Forest, SVM and XGBoost on the BATADAL SCADA dataset (**98.53%** accuracy, **0.999** ROC-AUC), with SHAP for explainability<br>
